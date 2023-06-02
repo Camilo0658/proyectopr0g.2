@@ -1,0 +1,2 @@
+0001;Real Madrid;Carlo Ancelotty
+0002;Barcelona FC;Xavi Hernandez
